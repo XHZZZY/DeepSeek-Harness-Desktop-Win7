@@ -8,9 +8,9 @@
 
 </div>
 
-这个项目让仍在使用 Windows 7 的电脑也能运行 DeepSeek Harness 桌面端。打开工作区，就可以在对话中引用本地文件，让 DSH 处理文档，再在同一个窗口里查看结果，使用体验与原版没有较大差别。这个社区适配版把桌面运行时、Windows 7 兼容组件和安装向导打在同一个安装包里。
+这是一个让仍在使用 Windows 7 的电脑也能强兼 DeepSeek Harness 的修复版桌面端。使用体验与原版没有较大差别。这个社区适配版把桌面运行时、Windows 7 兼容组件和安装向导打在同一个安装包里，无需下载额外组件。
 
-[![DeepSeek Harness 在 Windows 7 桌面上启动示例](docs/images/desktop.png)](docs/images/desktop.png)
+[![DeepSeek Harness 在 Windows 7 桌面上启动演示](docs/images/desktop.png)](docs/images/desktop.png)
 
 ## 在 Windows 7 上能做什么
 
